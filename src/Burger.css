@@ -1,0 +1,62 @@
+.burger {
+    width: 700px;
+    height: 450px;
+    overflow: auto;
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+    text-align:center;
+  }
+  .burgerOrder {
+    width: 700px;
+    height: 400px;
+    overflow: visible;
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+    text-align:center;
+  }
+  .bread-top {
+    height: 25%;
+    width: 80%;
+    background: linear-gradient(#bc581e, #e27b36);
+    border-radius: 50% 50% 0 0;
+    box-shadow: inset -15px 0 #c15711;
+    margin: 2% auto;
+    position: relative;
+  }
+  
+  .bread-bottom {
+   
+    height: 13%;
+    width: 80%;
+    background: linear-gradient(#f08e4a, #e27b36);
+    border-radius: 0 0 30px 30px;
+    box-shadow: inset -15px 0 #c15711;
+    margin: 2% auto;
+  }
+  
+  .salad {
+    
+    width: 90%;
+    height: 7%;
+    margin: 2% auto;
+    background: linear-gradient(#228c1d, #91ce50);
+    border-radius: 20px;
+  }
+  
+  .cheese {
+    width: 90%;
+    height: 4.5%;
+    margin: 2% auto;
+    background: linear-gradient(#f4d004, #d6bb22);
+    border-radius: 20px;
+  }
+  
+  .meat {
+    width: 90%;
+    height: 7%;
+    margin: 2% auto;
+    background: linear-gradient(#6E3C0F, #924f15);
+    border-radius: 20px;
+  }
